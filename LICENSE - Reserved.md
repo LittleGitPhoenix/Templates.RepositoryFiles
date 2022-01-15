@@ -1,0 +1,1 @@
+Copyright © 2022 Felix Leistner - **All rights reserved**
